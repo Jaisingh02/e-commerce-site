@@ -22,6 +22,12 @@ A lightweight e-commerce application built with **Python**, **Flask**, and **Boo
 
 ## 🧪 How to Run Locally
 
+### 📋 Prerequisites
+
+Before running the application, make sure you have the following installed:
+- Python 3.x
+- pip (Python package installer)
+
 ### 1. Clone the repository
 ```bash
 git clone <your-repository-url>
