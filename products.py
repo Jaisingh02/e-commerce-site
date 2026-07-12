@@ -1,3 +1,4 @@
+# List of mock products available in the store
 products = [
     {"id": 1, "name": "Wireless Mouse", "price": 499},
     {"id": 2, "name": "Mechanical Keyboard", "price": 1999},
