@@ -4,6 +4,7 @@ from products import products
 app = Flask(__name__)
 app.secret_key = 'your_secret_key_here'
 
+# Main route: displays the product list homepage
 @app.route('/')
 def index():
     return render_template('index.html', products=products)
