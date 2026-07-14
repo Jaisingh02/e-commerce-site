@@ -18,6 +18,7 @@ def add_to_cart(product_id):
     session.modified = True
     return redirect(url_for('view_cart'))
 
+# Route to view all items currently in the shopping cart and calculate total
 @app.route('/cart')
 def view_cart():
     cart_items = []
