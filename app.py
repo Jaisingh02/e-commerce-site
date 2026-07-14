@@ -9,6 +9,7 @@ app.secret_key = 'your_secret_key_here'
 def index():
     return render_template('index.html', products=products)
 
+# Route to add a product to the session-based shopping cart
 @app.route('/add_to_cart/<int:product_id>')
 def add_to_cart(product_id):
     if 'cart' not in session:
