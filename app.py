@@ -30,6 +30,7 @@ def view_cart():
             total += product['price']
     return render_template('cart.html', cart_items=cart_items, total=total)
 
+# Route to handle order checkout and payment processing
 @app.route('/checkout', methods=['GET', 'POST'])
 def checkout():
     if request.method == 'POST':
