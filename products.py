@@ -9,4 +9,5 @@ products = [
     {"id": 7, "name": "Laptop Stand", "price": 1299},
     {"id": 8, "name": "Ergonomic Mouse Pad", "price": 399},
     {"id": 9, "name": "HD Web Camera 1080p", "price": 2499},
+    {"id": 10, "name": "Wireless Charger Stand", "price": 1799},
 ]
