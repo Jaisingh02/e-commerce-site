@@ -7,4 +7,5 @@ products = [
     {"id": 5, "name": "Smart Watch", "price": 2999},
     {"id": 6, "name": "Portable SSD 1TB", "price": 5499},
     {"id": 7, "name": "Laptop Stand", "price": 1299},
+    {"id": 8, "name": "Ergonomic Mouse Pad", "price": 399},
 ]
