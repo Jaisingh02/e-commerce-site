@@ -12,4 +12,5 @@ products = [
     {"id": 10, "name": "Wireless Charger Stand", "price": 1799},
     {"id": 11, "name": "Bluetooth Speaker", "price": 2199},
     {"id": 12, "name": "Noise Cancelling Earbuds", "price": 3499},
+    {"id": 13, "name": "Mechanical Gaming Mouse", "price": 1899},
 ]
