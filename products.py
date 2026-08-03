@@ -15,4 +15,5 @@ products = [
     {"id": 13, "name": "Mechanical Gaming Mouse", "price": 1899},
     {"id": 14, "name": "Adjustable Monitor Arm", "price": 3299},
     {"id": 15, "name": "Desk Mat Extra Large", "price": 899},
+    {"id": 16, "name": "RGB LED Light Strip", "price": 1199},
 ]
