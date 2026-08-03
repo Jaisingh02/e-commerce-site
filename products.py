@@ -14,4 +14,5 @@ products = [
     {"id": 12, "name": "Noise Cancelling Earbuds", "price": 3499},
     {"id": 13, "name": "Mechanical Gaming Mouse", "price": 1899},
     {"id": 14, "name": "Adjustable Monitor Arm", "price": 3299},
+    {"id": 15, "name": "Desk Mat Extra Large", "price": 899},
 ]
