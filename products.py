@@ -18,4 +18,5 @@ products = [
     {"id": 16, "name": "RGB LED Light Strip", "price": 1199},
     {"id": 17, "name": "Aluminum Headphone Stand", "price": 1499},
     {"id": 18, "name": "Cable Management Sleeve", "price": 499},
+    {"id": 19, "name": "USB Microphone Kit", "price": 2799},
 ]
