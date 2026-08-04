@@ -21,4 +21,5 @@ products = [
     {"id": 19, "name": "USB Microphone Kit", "price": 2799},
     {"id": 20, "name": "Portable Monitor 15.6 Inch", "price": 8999},
     {"id": 21, "name": "Desk Fan USB Powered", "price": 799},
+    {"id": 22, "name": "Screen Light Bar", "price": 2299},
 ]
