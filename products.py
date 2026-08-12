@@ -26,4 +26,5 @@ products = [
     {"id": 24, "name": "Wireless Presenter Clicker", "price": 999},
     {"id": 25, "name": "Smart Plug Wi-Fi", "price": 799},
     {"id": 26, "name": "Smart Fitness Band", "price": 2499},
+    {"id": 27, "name": "Portable Power Bank 20000mAh", "price": 1999},
 ]
