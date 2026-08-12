@@ -28,4 +28,5 @@ products = [
     {"id": 26, "name": "Smart Fitness Band", "price": 2499},
     {"id": 27, "name": "Portable Power Bank 20000mAh", "price": 1999},
     {"id": 28, "name": "Magnetic Phone Mount", "price": 599},
+    {"id": 29, "name": "Foldable Laptop Desk", "price": 1499},
 ]
