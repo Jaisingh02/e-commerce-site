@@ -29,4 +29,5 @@ products = [
     {"id": 27, "name": "Portable Power Bank 20000mAh", "price": 1999},
     {"id": 28, "name": "Magnetic Phone Mount", "price": 599},
     {"id": 29, "name": "Foldable Laptop Desk", "price": 1499},
+    {"id": 30, "name": "USB Desk Fan Oscillating", "price": 1199},
 ]
