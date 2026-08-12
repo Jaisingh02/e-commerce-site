@@ -25,4 +25,5 @@ products = [
     {"id": 23, "name": "Smart Desk Lamp", "price": 1999},
     {"id": 24, "name": "Wireless Presenter Clicker", "price": 999},
     {"id": 25, "name": "Smart Plug Wi-Fi", "price": 799},
+    {"id": 26, "name": "Smart Fitness Band", "price": 2499},
 ]
