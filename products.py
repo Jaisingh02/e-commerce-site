@@ -33,4 +33,5 @@ products = [
     {"id": 31, "name": "Wireless Bluetooth Earbuds Pro", "price": 4999},
     {"id": 32, "name": "Mechanical Keycaps Set", "price": 1299},
     {"id": 33, "name": "Desk Organizer Tray", "price": 899},
+    {"id": 34, "name": "Smart Temperature Mug", "price": 2999},
 ]
