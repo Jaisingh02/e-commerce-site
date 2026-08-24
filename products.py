@@ -36,4 +36,5 @@ products = [
     {"id": 34, "name": "Smart Temperature Mug", "price": 2999},
     {"id": 35, "name": "Wireless Gaming Controller", "price": 3199},
     {"id": 36, "name": "Adjustable Phone Stand", "price": 499},
+    {"id": 37, "name": "Braided USB-C Cable 2M", "price": 399},
 ]
