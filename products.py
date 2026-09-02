@@ -45,4 +45,5 @@ products = [
     {"id": 43, "name": "Magnetic Cable Clips 5-Pack", "price": 499},
     {"id": 44, "name": "Laptop Cooling Pad RGB", "price": 1899},
     {"id": 45, "name": "Dual Monitor Desk Mount", "price": 4999},
+    {"id": 46, "name": "Screen Cleaning Kit 3-in-1", "price": 349},
 ]
