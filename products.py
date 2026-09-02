@@ -43,4 +43,5 @@ products = [
     {"id": 41, "name": "USB Hub 7-Port with Switches", "price": 1499},
     {"id": 42, "name": "Bluetooth Trackpad", "price": 3299},
     {"id": 43, "name": "Magnetic Cable Clips 5-Pack", "price": 499},
+    {"id": 44, "name": "Laptop Cooling Pad RGB", "price": 1899},
 ]
