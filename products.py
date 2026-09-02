@@ -41,4 +41,5 @@ products = [
     {"id": 39, "name": "Noise Isolating Headphones", "price": 2899},
     {"id": 40, "name": "Wireless Charging Mouse Pad", "price": 1799},
     {"id": 41, "name": "USB Hub 7-Port with Switches", "price": 1499},
+    {"id": 42, "name": "Bluetooth Trackpad", "price": 3299},
 ]
