@@ -47,4 +47,5 @@ products = [
     {"id": 45, "name": "Dual Monitor Desk Mount", "price": 4999},
     {"id": 46, "name": "Screen Cleaning Kit 3-in-1", "price": 349},
     {"id": 47, "name": "Mini Desktop Vacuum Cleaner", "price": 699},
+    {"id": 48, "name": "Smart LED Desk Clock", "price": 1299},
 ]
