@@ -40,4 +40,5 @@ products = [
     {"id": 38, "name": "Vertical Ergonomic Mouse", "price": 1599},
     {"id": 39, "name": "Noise Isolating Headphones", "price": 2899},
     {"id": 40, "name": "Wireless Charging Mouse Pad", "price": 1799},
+    {"id": 41, "name": "USB Hub 7-Port with Switches", "price": 1499},
 ]
