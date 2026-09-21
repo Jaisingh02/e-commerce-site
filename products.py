@@ -53,4 +53,5 @@ products = [
     {"id": 51, "name": "Anti-Glare Screen Protector", "price": 799},
     {"id": 52, "name": "Noise Cancelling Microphone Sponge", "price": 299},
     {"id": 53, "name": "Web Camera Privacy Cover 3-Pack", "price": 199},
+    {"id": 54, "name": "Wireless Charging Station 3-in-1", "price": 2999},
 ]
