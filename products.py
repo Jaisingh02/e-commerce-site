@@ -55,4 +55,5 @@ products = [
     {"id": 53, "name": "Web Camera Privacy Cover 3-Pack", "price": 199},
     {"id": 54, "name": "Wireless Charging Station 3-in-1", "price": 2999},
     {"id": 55, "name": "Bluetooth Audio Transmitter", "price": 1299},
+    {"id": 56, "name": "RGB Mechanical Numpad", "price": 1799},
 ]
