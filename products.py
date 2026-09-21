@@ -51,4 +51,5 @@ products = [
     {"id": 49, "name": "Wireless Touchpad Remote", "price": 1499},
     {"id": 50, "name": "Ergonomic Footrest Cushion", "price": 1899},
     {"id": 51, "name": "Anti-Glare Screen Protector", "price": 799},
+    {"id": 52, "name": "Noise Cancelling Microphone Sponge", "price": 299},
 ]
