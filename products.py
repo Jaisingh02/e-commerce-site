@@ -49,4 +49,5 @@ products = [
     {"id": 47, "name": "Mini Desktop Vacuum Cleaner", "price": 699},
     {"id": 48, "name": "Smart LED Desk Clock", "price": 1299},
     {"id": 49, "name": "Wireless Touchpad Remote", "price": 1499},
+    {"id": 50, "name": "Ergonomic Footrest Cushion", "price": 1899},
 ]
