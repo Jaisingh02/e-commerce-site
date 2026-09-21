@@ -56,4 +56,5 @@ products = [
     {"id": 54, "name": "Wireless Charging Station 3-in-1", "price": 2999},
     {"id": 55, "name": "Bluetooth Audio Transmitter", "price": 1299},
     {"id": 56, "name": "RGB Mechanical Numpad", "price": 1799},
+    {"id": 57, "name": "Adjustable Tablet Stand Holder", "price": 899},
 ]
