@@ -59,4 +59,5 @@ products = [
     {"id": 57, "name": "Adjustable Tablet Stand Holder", "price": 899},
     {"id": 58, "name": "Magnetic Smartphone Ring Holder", "price": 399},
     {"id": 59, "name": "USB-C Angled Adapter 90-Degree", "price": 299},
+    {"id": 60, "name": "Monitor Light Bar Controller Remote", "price": 799},
 ]
