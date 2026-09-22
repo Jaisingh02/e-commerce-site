@@ -61,4 +61,5 @@ products = [
     {"id": 59, "name": "USB-C Angled Adapter 90-Degree", "price": 299},
     {"id": 60, "name": "Monitor Light Bar Controller Remote", "price": 799},
     {"id": 61, "name": "Compressed Air Duster Electric", "price": 2499},
+    {"id": 62, "name": "Thermal Paste Syringe 4g", "price": 499},
 ]
