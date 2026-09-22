@@ -57,4 +57,5 @@ products = [
     {"id": 55, "name": "Bluetooth Audio Transmitter", "price": 1299},
     {"id": 56, "name": "RGB Mechanical Numpad", "price": 1799},
     {"id": 57, "name": "Adjustable Tablet Stand Holder", "price": 899},
+    {"id": 58, "name": "Magnetic Smartphone Ring Holder", "price": 399},
 ]
