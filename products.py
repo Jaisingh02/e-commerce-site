@@ -63,4 +63,5 @@ products = [
     {"id": 61, "name": "Compressed Air Duster Electric", "price": 2499},
     {"id": 62, "name": "Thermal Paste Syringe 4g", "price": 499},
     {"id": 63, "name": "Anti-Static Wrist Strap", "price": 249},
+    {"id": 64, "name": "Precision Screwdriver Tool Kit 64-in-1", "price": 1499},
 ]
