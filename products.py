@@ -68,4 +68,5 @@ products = [
     {"id": 66, "name": "Cable Management Sleeve Neoprene", "price": 699},
     {"id": 67, "name": "Dual-Band USB Wi-Fi Adapter", "price": 899},
     {"id": 68, "name": "Bluetooth 5.3 Dongle", "price": 499},
+    {"id": 69, "name": "External Sound Card USB", "price": 799},
 ]
