@@ -67,4 +67,5 @@ products = [
     {"id": 65, "name": "Cable Tie Rolls 50-Pack", "price": 399},
     {"id": 66, "name": "Cable Management Sleeve Neoprene", "price": 699},
     {"id": 67, "name": "Dual-Band USB Wi-Fi Adapter", "price": 899},
+    {"id": 68, "name": "Bluetooth 5.3 Dongle", "price": 499},
 ]
