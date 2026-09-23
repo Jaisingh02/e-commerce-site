@@ -66,4 +66,5 @@ products = [
     {"id": 64, "name": "Precision Screwdriver Tool Kit 64-in-1", "price": 1499},
     {"id": 65, "name": "Cable Tie Rolls 50-Pack", "price": 399},
     {"id": 66, "name": "Cable Management Sleeve Neoprene", "price": 699},
+    {"id": 67, "name": "Dual-Band USB Wi-Fi Adapter", "price": 899},
 ]
