@@ -69,4 +69,5 @@ products = [
     {"id": 67, "name": "Dual-Band USB Wi-Fi Adapter", "price": 899},
     {"id": 68, "name": "Bluetooth 5.3 Dongle", "price": 499},
     {"id": 69, "name": "External Sound Card USB", "price": 799},
+    {"id": 70, "name": "Memory Card Reader USB 3.0", "price": 599},
 ]
